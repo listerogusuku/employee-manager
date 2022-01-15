@@ -16,7 +16,6 @@ public class Program {
 		
 		List<Employee> employee = new ArrayList<>();
 		
-		
 		System.out.println("How many employees will be registered? ");
 		int register = sc.nextInt();
 		
